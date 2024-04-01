@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1.csproj", "{4AE6FEF6-2CE9-4485-ADA3-57D25E3CE8DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasswordStregth.UnitTest", "..\PasswordStregth.UnitTest\PasswordStregth.UnitTest.csproj", "{5AE9867A-5EDA-40BF-A1B8-D9936E6C00CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AE6FEF6-2CE9-4485-ADA3-57D25E3CE8DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AE6FEF6-2CE9-4485-ADA3-57D25E3CE8DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AE6FEF6-2CE9-4485-ADA3-57D25E3CE8DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AE6FEF6-2CE9-4485-ADA3-57D25E3CE8DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AE9867A-5EDA-40BF-A1B8-D9936E6C00CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AE9867A-5EDA-40BF-A1B8-D9936E6C00CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AE9867A-5EDA-40BF-A1B8-D9936E6C00CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AE9867A-5EDA-40BF-A1B8-D9936E6C00CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7B46222-2F00-4713-BDFD-346A03977B37}
+	EndGlobalSection
+EndGlobal
